@@ -1,7 +1,7 @@
 {
   "name": "portfolio-website",
   "version": "0.1.0",
-  "homepage": "https://github.com/kirankhanalleo/portfolio",
+  "homepage": "https://github.io/kirankhanalleo/portfolio",
   "private": true,
   "dependencies": {
     "@fontsource/aileron": "^4.5.3",

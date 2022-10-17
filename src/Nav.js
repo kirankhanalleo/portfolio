@@ -8,10 +8,10 @@ function Nav() {
     <div className="nav">
       <div className="nav__components">
         <div className="nav__componentsLeft">
-          <b onClick={() => navigate("/")}>kiran.me</b>
+          <b onClick={() => navigate("/portfolio")}>kiran.me</b>
         </div>
         <div className="nav__componentsRight">
-          <p onClick={() => navigate("contact")}>Chat now</p>
+          <p onClick={() => navigate("/portfolio/contact")}>Chat now</p>
         </div>
       </div>
     </div>

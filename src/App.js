@@ -9,7 +9,7 @@ function App() {
       <Router>
         <Routes>
           <Route exact path="/portfolio" element={<HomeScreen />} />
-          <Route exact path="/contact" element={<Contact />} />
+          <Route exact path="/portfolio/contact" element={<Contact />} />
         </Routes>
       </Router>
     </div>
